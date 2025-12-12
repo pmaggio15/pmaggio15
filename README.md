@@ -12,5 +12,5 @@ Most of my work lives in the pinned repositories below — including AI products
 
 🧰 Core Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,nodejs,express,tailwind,postgres,mongodb,firebase,openai,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,tailwind,postgres,openai,git,github,vercel" />
 </p>

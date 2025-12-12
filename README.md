@@ -1,3 +1,17 @@
+👋 Hi, I'm Paige Maggio
+Frontend Engineer • React • TypeScript • AI-Driven Interfaces
+
+I build fast, modern, and reliable web applications with a strong focus on clean architecture, responsive UI, and real-time AI features. I love turning complex problems into intuitive user experiences — and shipping production-ready interfaces that feel smooth, sharp, and thoughtfully engineered.
+
+📍 Based in Montana
+
+📧 Contact: pmaggio15@gmail.com
+
+⚽ Fun fact: Before tech, I played Division-1 soccer at the University of Arizona — competitive mindset included.
+
+🧰 Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,nodejs,express,tailwind,vite,postgres,mongodb,firebase,openai,git,github,vercel" /> </p>
+
 👋 Hi, I’m Paige Maggio
 Frontend Engineer • React • TypeScript • Next.js • AI-Driven Interfaces
 

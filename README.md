@@ -12,6 +12,7 @@ Most of my work lives in the pinned repositories below — including AI products
 
 🧰 Core Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,tailwind,postgres,git,github,vercel" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai-icon.svg" alt="OpenAI" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,tailwind,postgres" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai-icon.svg" alt="OpenAI" style="height: 48px; width: 48px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>

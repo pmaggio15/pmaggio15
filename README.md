@@ -1,5 +1,5 @@
 👋 Hi, I’m Paige Maggio  
-Frontend Engineer • React • TypeScript • Next.js
+Full Stack Developer • React • TypeScript • Next.js • Node.js
 
 I build production grade web applications with a focus on clean component architecture, performance, and polished user experience. I’ve shipped frontend applications for AI driven products, authenticated dashboards, and real world workflow systems.
 
